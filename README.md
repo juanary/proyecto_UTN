@@ -119,9 +119,6 @@ password: 123456
 
 Authorities: ROLE_USER
 ``` 
-Si querés acceder a la aplicación en ejecución - https://leopesi.github.io/proyecto_UTN/
-
-Luego inicie sesión y sea feliz! ;)
 
 ## 
 <h2 align="center"> Diagramas de Flujo </h2>
