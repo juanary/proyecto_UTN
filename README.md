@@ -1,12 +1,5 @@
 
-<h1 align="center"> Proyecto final de extensión universitaria Programador Web Avanzado de la UTN - (Universidad Tecnológica Nacional - Buenos Aires) </h1>
-
-
-![Skills](https://skills.thijs.gg/icons?i=nodejs,react,mysql,git,html,css,&theme=light)
-
-:arrow_forward:  https://leopesi.github.io/proyecto_UTN/
-
-:arrow_forward:  https://proyecto-utn.s3.sa-east-1.amazonaws.com/index.html
+<h1 align="center"> Proyecto de la materia Desarrollo de Software - 3er año - Ingeniería en Sistemas UTN FRC</h1>
 
 
 # Empezando 
@@ -78,7 +71,7 @@ SHOW DATABASES
 Todo lo que necesitas hacer es clonar este repositorio:
 
 ```shell
-git clone https://github.com/leopesi/proyecto_UTN.git
+git clone https://github.com/juanary/proyecto_UTN.git
 ```
 ## Ajustes
 Busque el archivo .env en la raíz de /server y complételo con la información de creación de la base de datos (DB_DATABASE, DB_USER y DB_PASS)
@@ -154,7 +147,7 @@ Luego inicie sesión y sea feliz! ;)
 <img src="https://user-images.githubusercontent.com/52714788/209238654-30f8a99f-131f-4eb3-b0d1-f3b4a792c229.JPG">
 
 ## Autor
-Leonardo Pereira - [leopesi](https://github.com/leopesi) :+1: <br>
+Juan Araya - [juanary](https://github.com/juanary) :+1: <br>
 See also the list of contributors who participated in this project.
 
 
@@ -163,6 +156,3 @@ This project is licensed under the MIT License.
 
 <hr>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/leopesi/proyecto_UTN/main/client/public/image/Logo%20leopesi%20Black.png" width="350" title="LinkedIn" />
-</div>
